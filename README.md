@@ -6,6 +6,7 @@
 Here are some results I obtained after using my trained model
 
 <img src="https://github.com/MuttuVittal818/Diploma_Major_Project_2021/blob/main/Results/R1.png" alt="J" width="200"/>
+<img src="https://github.com/MuttuVittal818/Diploma_Major_Project_2021/blob/main/Results/R2.png" alt="J" width="200"/>
 
 # Conclusion:
 
