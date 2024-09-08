@@ -4,7 +4,7 @@
 
 # Results:
 Here are some results I obtained after using my trained model
-
+![alt text](http://url/to/img.png](https://github.com/MuttuVittal818/Diploma_Major_Project_2021/blob/main/Results/R1.png)
 
 
 # Conclusion:
